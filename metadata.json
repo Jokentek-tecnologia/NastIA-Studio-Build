@@ -1,0 +1,7 @@
+{
+  "name": "NastIA Studio",
+  "description": "Uma aplicação completa com IA para empreendedores gerarem conteúdo de marketing, realizarem pesquisas de mercado e otimizarem tarefas. Inclui geração de imagem e vídeo, um agente de chat IA específico para o nicho, conversas por voz, transcrição de áudio e análise inteligente de concorrentes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
